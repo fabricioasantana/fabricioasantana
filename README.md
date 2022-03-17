@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabricioasantana
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning how to programming, js, python.
+- 🌱 I’m currently learning how to program, js, python.
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me msg me.
 
